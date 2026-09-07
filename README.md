@@ -5,7 +5,7 @@ Modelado estructural, docking y simulación de complejos proteína-ligando.
 **Fecha:** 19-21 de septiembre de 2026  
 **Lugar:** Universidad Don Bosco (UDB), Campus Soyapango  
 **Instructor:** Saúl J. Flores  
-**Afiliación:** University of Maryland, College Park
+**Afiliación:** University of Maryland, College Park 
 
 ## Descripción
 
