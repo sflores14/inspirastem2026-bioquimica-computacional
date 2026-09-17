@@ -1,4 +1,4 @@
-# InspiraSTEM 2026 - Bioquímica Computacional Aplicada
+# InspiraSTEM 2026 | Bioquímica Computacional Aplicada
 
 Modelado estructural, docking y simulación de complejos proteína-ligando.
 
